@@ -1,0 +1,10 @@
+/home/matt/Documents/Programming/NETCore/LinuxCore/bin/Debug/netcoreapp2.0/LinuxCore.deps.json
+/home/matt/Documents/Programming/NETCore/LinuxCore/bin/Debug/netcoreapp2.0/LinuxCore.runtimeconfig.json
+/home/matt/Documents/Programming/NETCore/LinuxCore/bin/Debug/netcoreapp2.0/LinuxCore.runtimeconfig.dev.json
+/home/matt/Documents/Programming/NETCore/LinuxCore/bin/Debug/netcoreapp2.0/LinuxCore.dll
+/home/matt/Documents/Programming/NETCore/LinuxCore/bin/Debug/netcoreapp2.0/LinuxCore.pdb
+/home/matt/Documents/Programming/NETCore/LinuxCore/obj/Debug/netcoreapp2.0/LinuxCore.csproj.CoreCompileInputs.cache
+/home/matt/Documents/Programming/NETCore/LinuxCore/obj/Debug/netcoreapp2.0/LinuxCore.AssemblyInfoInputs.cache
+/home/matt/Documents/Programming/NETCore/LinuxCore/obj/Debug/netcoreapp2.0/LinuxCore.AssemblyInfo.cs
+/home/matt/Documents/Programming/NETCore/LinuxCore/obj/Debug/netcoreapp2.0/LinuxCore.dll
+/home/matt/Documents/Programming/NETCore/LinuxCore/obj/Debug/netcoreapp2.0/LinuxCore.pdb

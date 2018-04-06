@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matt/Documents/programming/LinuxCore/LinuxCore.csproj",
+      "projectUniqueName": "/home/matt/Documents/Programming/NETCore/LinuxCore/LinuxCore.csproj",
       "projectName": "LinuxCore",
-      "projectPath": "/home/matt/Documents/programming/LinuxCore/LinuxCore.csproj",
+      "projectPath": "/home/matt/Documents/Programming/NETCore/LinuxCore/LinuxCore.csproj",
       "packagesPath": "/home/matt/.nuget/packages/",
-      "outputPath": "/home/matt/Documents/programming/LinuxCore/obj/",
+      "outputPath": "/home/matt/Documents/Programming/NETCore/LinuxCore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
