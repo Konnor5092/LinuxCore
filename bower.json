@@ -1,0 +1,7 @@
+{
+    "name" : "linuxCore",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "latest"
+    }
+}
